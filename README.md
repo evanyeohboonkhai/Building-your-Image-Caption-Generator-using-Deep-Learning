@@ -2,6 +2,16 @@
 ## Setup
 ----
 1. Git clone this project.
-2. ```
-3. git clone 
-4. ```
+```
+git clone https://github.com/evanyeohboonkhai/Building-your-Image-Caption-Generator-using-Deep-Learning.git
+```
+2.  Download Anaconda from this [site](https://www.anaconda.com/products/individual) which is a toolkit that equips you to work with thousands of open-source packages and libraries.
+3. Create a conda environment that has all the required libraries installed and activate it
+ ```
+cd Building-your-Image-Caption-Generator-using-Deep-Learning
+conda env create -f environment.yml
+ ```
+ 4. Open Jupyter Notebook.
+```
+ jupyter-notebook
+ ```
