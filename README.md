@@ -1,6 +1,5 @@
 # Building-your-Image-Caption-Generator-using-Deep-Learning
 ## Setup
-----
 1. Git clone this project.
 ```
 git clone https://github.com/evanyeohboonkhai/Building-your-Image-Caption-Generator-using-Deep-Learning.git
