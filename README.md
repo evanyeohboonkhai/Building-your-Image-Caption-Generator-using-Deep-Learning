@@ -10,7 +10,11 @@ git clone https://github.com/evanyeohboonkhai/Building-your-Image-Caption-Genera
 cd Building-your-Image-Caption-Generator-using-Deep-Learning
 conda env create -f environment.yml
  ```
- 4. Open Jupyter Notebook.
+ 4. Activate the environment
+ ```
+ conda activate nlp
+ ```
+ 5. Open Jupyter Notebook.
 ```
  jupyter-notebook
  ```
