@@ -23,9 +23,7 @@ conda env create -f environment.yml
 ## Alternative 
 1. Run in Google colab
 ### Lastest
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1bPLPymwG1zqXUhHeHvtRN_eVY-Dxgtf8?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bPLPymwG1zqXUhHeHvtRN_eVY-Dxgtf8?usp=sharing)
 
 ### Version 1.0
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1S2T3ZMpP4ker8vy5yLvqOVdXsCDltuM9)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S2T3ZMpP4ker8vy5yLvqOVdXsCDltuM9)
